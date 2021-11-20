@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cartsection_frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/cartsection_frontend/static/js/main.90fb4fb7.chunk.js",
+    "main.js.map": "/cartsection_frontend/static/js/main.90fb4fb7.chunk.js.map",
+    "runtime-main.js": "/cartsection_frontend/static/js/runtime-main.7869f08d.js",
+    "runtime-main.js.map": "/cartsection_frontend/static/js/runtime-main.7869f08d.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/cartsection_frontend/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.7de215cf.chunk.js": "/cartsection_frontend/static/js/2.7de215cf.chunk.js",
+    "static/js/2.7de215cf.chunk.js.map": "/cartsection_frontend/static/js/2.7de215cf.chunk.js.map",
+    "static/js/3.1b845f25.chunk.js": "/cartsection_frontend/static/js/3.1b845f25.chunk.js",
+    "static/js/3.1b845f25.chunk.js.map": "/cartsection_frontend/static/js/3.1b845f25.chunk.js.map",
+    "index.html": "/cartsection_frontend/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/cartsection_frontend/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/cartsection_frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7de215cf.chunk.js.LICENSE.txt": "/cartsection_frontend/static/js/2.7de215cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7869f08d.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.7de215cf.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.90fb4fb7.chunk.js"
+  ]
+}
