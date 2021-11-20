@@ -13,9 +13,9 @@ else{
 handleColor=()=>{
     if (this.props.counter.value===0)
      {
-         return "badge bg-warning text-dark m-2";
+         return "badge bg-warning text-dark";
     }else{
-        return "badge bg-success m-2";
+        return "badge bg-success ";
     }}
 render(){
   return (
